@@ -1,3 +1,3 @@
-# Yolo_v5
+# Yolo_V5
 
 YOLO Version 5
